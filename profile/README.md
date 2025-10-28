@@ -76,8 +76,11 @@ Desarrollar sistemas inteligentes, innovadores, confiables y seguros que **simpl
 
 ### 🌐 Conecta con Nosotros
 
-- 🕸️ Sitio Web: [https://wysofia.com](https://wysofia.com)  
-- 💼 LinkedIn: [WySofia en LinkedIn](https://www.linkedin.com/company/wysofia)  
-- 🧑‍💻 GitHub: [@wysofia](https://github.com/wysofia)  
-- ✉️ Contacto: info@wysofia.com  
+- 🕸️ Sitio Web: [https://wysofia.com](https://wysofia.com)
+- 💼 LinkedIn Empresa: [https://www.linkedin.com/company/wysofia](https://www.linkedin.com/company/wysofia)
+- 🧑‍💻 GitHub: [https://github.com/wysofia](https://github.com/wysofia)
+- ▶️ YouTube: [https://www.youtube.com/@wysofia](https://www.youtube.com/@wysofia_ec)
+- 📸 Instagram: [https://www.instagram.com/wysofia](https://www.instagram.com/wysofia)
+- ✉️ Contacto: info@wysofia.com
+
 
